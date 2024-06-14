@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ECOM_PRODUCT
 {
-    internal class Product
+    public class Product
     {
         // Defining Properties
         public int ProductId { get; set; }
